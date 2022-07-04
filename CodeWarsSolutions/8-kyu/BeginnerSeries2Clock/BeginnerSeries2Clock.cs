@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace CodeWarsSolutions
 {
     /*
-
      Title: Beginner Series #2 Clock
 
      Description:
@@ -16,8 +15,8 @@ namespace CodeWarsSolutions
 
      Kata Link:
      https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/csharp
-
      */
+
     public class BeginnerSeries2Clock
     {
         public static int Past(int h, int m, int s)
